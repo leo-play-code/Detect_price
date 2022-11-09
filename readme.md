@@ -10,4 +10,3 @@
 <hr>
 <p>if you want to add other token to swap you need to add (Address),(ABI) in bsc/contract/contract.json</p>
 
-Cancel changes

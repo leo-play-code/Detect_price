@@ -1,0 +1,10 @@
+{
+    "BSW":{
+        "biswap":"BSW-USDT",
+        "binance":"BSWUSDT"
+    },
+    "ETH":{
+        "biswap":"ETH-USDT",
+        "binance":"ETHUSDT"
+    }
+}
